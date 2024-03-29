@@ -6,5 +6,8 @@
 # EmoSound-Emotion-Based-Music-Recommender-Resnet50V2
 EmoSound: Feel the Music. Our emotion-based music recommender understands your mood, crafting playlists that resonate with your feelings in the moment. Say goodbye to generic playlists and hello to a personalized soundtrack for every emotion.
 
-![Image Alt Text](1.jpg)
+![Image Alt Text](2.png)
+![Image Alt Text](1.png)
+![Image Alt Text](3.png)
+
 
